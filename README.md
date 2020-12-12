@@ -17,10 +17,10 @@
 
 ***
 
-[<img src="https://img.shields.io/badge/@akseonoww%20-%230a6284.svg?&style=for-the-badge&logo=Telegram&logoColor=white" height="36"/>](https://t.me/akseonowww)
-[<img src="https://img.shields.io/badge/@akseonoww%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height="36"/>](https://www.instagram.com/akseonowww)
-[<img src="https://img.shields.io/badge/@akseonoww%20-%23447CBC.svg?&style=for-the-badge&logo=VK&logoColor=white" height="36"/>](https://vk.com/akseonowww)
-[<img src="https://img.shields.io/badge/@akseonoww%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height="36"/>](https://twitter.com/akseonowww)
-[<img src="https://img.shields.io/badge/@akseonoww%20-%23252525.svg?&style=for-the-badge&logo=GitHub&logoColor=white" height="36"/>](https://github.com/akseonowww)
+[<img src="https://img.shields.io/badge/@akseonowww%20-%230a6284.svg?&style=for-the-badge&logo=Telegram&logoColor=white" height="36"/>](https://t.me/akseonowww)
+[<img src="https://img.shields.io/badge/@akseonowww%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height="36"/>](https://www.instagram.com/akseonowww)
+[<img src="https://img.shields.io/badge/@akseonowww%20-%23447CBC.svg?&style=for-the-badge&logo=VK&logoColor=white" height="36"/>](https://vk.com/akseonowww)
+[<img src="https://img.shields.io/badge/@akseonowww%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" height="36"/>](https://twitter.com/akseonowww)
+[<img src="https://img.shields.io/badge/@akseonowww%20-%23252525.svg?&style=for-the-badge&logo=GitHub&logoColor=white" height="36"/>](https://github.com/akseonowww)
 
 [<span style="font-size: 14px; letter-spacing: 2px; text-transform: uppercase; font-weight: 800; background: #000; color: #eaeaea; display: flex; align-items: center; padding: 8px 12px; justify-content: center;"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="18" style="margin-right: 10px"/> rusakseonowww@gmail.com</span>](mailto:rusakseonowww@gmail.com)
