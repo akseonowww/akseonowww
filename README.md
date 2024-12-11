@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=fb0103&background=1E42FF00&center=false&width=435&lines=AKSEONOWWW)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=2dfbfc&background=1E42FF00&center=false&width=435&lines=T.ME++%2F++AKSEONOWWW)](https://t.me/akseonowww) <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=2dfbfc&background=1E42FF00&center=false&width=435&lines=VK.COM++%2F++AKSEONOWWW)](https://vk.com/akseonowww) <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=2dfbfc&background=1E42FF00&center=false&width=435&lines=GITHUB.COM++%2F++AKSEONOWWW)](https://github.com/akseonowww)
 
 
@@ -38,10 +37,10 @@
  
  > ### 🎈 Socials 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akseonowww) [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white)](https://rekonise.me/akseonowww) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/akseonowww) [![Twitter (X)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/akseonowww)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akseonowww) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/akseonowww) [![Twitter (X)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/akseonowww)
  <br>
  
-[![Yandex Email](https://img.shields.io/badge/Yandex_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](https://mailto:akseonowww@ya.ru) [![Google Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:akseonowww@gmal.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:akseonowww@gmal.com) 
  
 
  <br>
